@@ -1,3 +1,7 @@
+type: translate-template
+ver:
+  major: 0
+  minor: 1
 from: 
   tag: eng
   name: English
